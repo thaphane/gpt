@@ -1,0 +1,6 @@
+projectKey=gpt-engineer
+serverUrl=http://34.170.248.60:9000
+serverVersion=9.7.0.61563
+dashboardUrl=http://34.170.248.60:9000/dashboard?id=gpt-engineer
+ceTaskId=AYkWwkc64HGsAj5I3XAw
+ceTaskUrl=http://34.170.248.60:9000/api/ce/task?id=AYkWwkc64HGsAj5I3XAw
